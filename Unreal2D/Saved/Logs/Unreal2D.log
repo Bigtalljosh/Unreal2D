@@ -5164,3 +5164,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.19-16.21.46:589][874]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/MyContent/Sunnyland/sprites/player/jump/player-jump.player-jump
 [2023.02.19-16.22.13:058][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2023.02.19-16.22.13:060][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyContent/Maps/Playaround' took 0.021
+[2023.02.19-16.23.20:726][215]LogEditorViewport: Clicking Background
+[2023.02.19-16.23.24:067][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyContent/Blueprints/Player.Player
+[2023.02.19-16.23.24:067][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.19-16.23.51:576][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.19-16.23.51:607][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Player" FILE="../../../../Projects/Unreal2D/Unreal2D/Content/MyContent/Blueprints/Player.uasset" SILENT=true
+[2023.02.19-16.23.51:615][199]LogSavePackage: Moving output files for package: /Game/MyContent/Blueprints/Player
+[2023.02.19-16.23.51:615][199]LogSavePackage: Moving '../../../../Projects/Unreal2D/Unreal2D/Saved/Player0B0ED22F4681B4322B20B099C1C3C2F3.tmp' to '../../../../Projects/Unreal2D/Unreal2D/Content/MyContent/Blueprints/Player.uasset'
+[2023.02.19-16.23.51:621][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 3.23 sec)
+[2023.02.19-16.23.51:626][199]AssetCheck: New page: Asset Save: Player
+[2023.02.19-16.23.51:626][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyContent/Blueprints/Player.Player
+[2023.02.19-16.25.13:236][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.19-16.25.13:262][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Blueprints/Player" FILE="../../../../Projects/Unreal2D/Unreal2D/Content/MyContent/Blueprints/Player.uasset" SILENT=true
+[2023.02.19-16.25.13:270][974]LogSavePackage: Moving output files for package: /Game/MyContent/Blueprints/Player
+[2023.02.19-16.25.13:270][974]LogSavePackage: Moving '../../../../Projects/Unreal2D/Unreal2D/Saved/PlayerD4B42C2B4E09CFA1C12E22AD275FAB80.tmp' to '../../../../Projects/Unreal2D/Unreal2D/Content/MyContent/Blueprints/Player.uasset'
+[2023.02.19-16.25.13:276][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 3.27 sec)
+[2023.02.19-16.25.13:281][974]AssetCheck: New page: Asset Save: Player
+[2023.02.19-16.25.13:281][974]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyContent/Blueprints/Player.Player
+[2023.02.19-16.25.14:061][ 60]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-16.25.14:061][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-16.25.14:991][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.19-16.25.15:023][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyContent/Maps/Playaround" FILE="../../../../Projects/Unreal2D/Unreal2D/Content/MyContent/Maps/Playaround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.19-16.25.15:042][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.19-16.25.15:050][161]LogSavePackage: Moving output files for package: /Game/MyContent/Maps/Playaround
+[2023.02.19-16.25.15:050][161]LogSavePackage: Moving '../../../../Projects/Unreal2D/Unreal2D/Saved/Playaround219A22544C2E871B8C027290811C402A.tmp' to '../../../../Projects/Unreal2D/Unreal2D/Content/MyContent/Maps/Playaround.umap'
+[2023.02.19-16.25.15:059][161]LogFileHelpers: Saving map 'Playaround' took 0.036
+[2023.02.19-16.25.15:064][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.34 sec)
+[2023.02.19-16.25.15:070][161]AssetCheck: New page: Asset Save: Playaround
+[2023.02.19-16.25.15:070][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyContent/Maps/Playaround.Playaround
